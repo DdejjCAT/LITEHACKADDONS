@@ -1,5 +1,7 @@
 # DECODED BY HYPER X SQUAD >>> TOP 1 
 # @decoded_softs
+# PORT BY FENST4R
+# @error_kill
 import sys
 import smtplib
 from email.mime.text import MIMEText
